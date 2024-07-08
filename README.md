@@ -30,12 +30,16 @@ Once the upload is finished , you have your app deployed and ready to go !
 ![step1](https://github.com/Amanyft/End-to-end-Web-app-with-AWS/assets/80603078/651d1e96-8fc6-443e-b6eb-2b43e6542099)
 
 ## Amazon API Gateway
-Now that we have our app deployed and accessible to the users.Once they fill out the input boxes the data collected will be sent to the backend for calculations.<br>
+
+<div style="display: flex; justify-content: center;">
+<img src="https://github.com/Amanyft/End-to-end-Web-app-with-AWS/assets/80603078/8413df08-3110-4c82-b48f-6764e620bd81" alt="Example Image" width="100" height="100">
+</div>
+Now that we have our app deployed and accessible to the users. Once they fill out the input boxes the data collected will be sent to the backend for calculations.<br>
 For that we need to set up an api endpoint to which we send the data for processing . We have set up a post request using the Amazon API Gateway service .<br>
-<b>Amazon API Gateway  </b> 
+<b> Amazon API Gateway  </b> 
 is a managed service provided by AWS that enables developers to create, publish, maintain, monitor, and secure APIs at any scale. <br>
 
-AWS offers you the possibility to choose the type of API you want to create : HTTP,REST,Websocket ...   <br>
+AWS offers you the possibility to choose the type of API you want to create : HTTP,REST,Websocket ...   <br><br>
 In our case,we used REST API to send a POST request in which we're going to send our data.<br><br>
 
 
