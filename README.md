@@ -73,12 +73,12 @@ We created our table in which we're going to store the data . <br> <br>
 
 ## AWS IAM (Identity and Access Management)
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/Amanyft/End-to-end-Web-app-with-AWS/raw/assets/80603078/5d9639a2-a2b8-47e4-9f19-5f0c522d795a" alt="Example Image" width="100" height="100">
+    <img src="https://github.com/Amanyft/End-to-end-Web-app-with-AWS/assets/80603078/6690ba76-44fd-40b6-b00f-9674d7d4bf4f" width="100" height="100">
 </div>
 
+
 In order to AWS Lambda to be able to write into the Database , we have to ensure it has the right permissions.<br>
-<b>IAM </b> stands for <b> Identity and Access Management</b>. It's a crucial service provided by AWS that helps you manage access to AWS services and resources securely. <br><br>
-We have specified the permissions for the AWS Lambda to be able to get, update ,delete, run query or scan DynamoDB.<br>
+<b>IAM </b> stands for <b> Identity and Access Management</b>. It's a crucial service provided by AWS that helps you manage access to AWS services and resources securely. We have specified the permissions for the AWS Lambda to be able to get, update ,delete, run query or scan DynamoDB.<br>
 <br>
 
 ![policy](https://github.com/Amanyft/End-to-end-Web-app-with-AWS/assets/80603078/be87622f-a4a0-42f8-9cde-2c4cd5aca7d8)
