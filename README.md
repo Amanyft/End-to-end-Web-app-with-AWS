@@ -19,7 +19,7 @@ The user specifies the base number and its exponent and get the result displayed
 <div style="display: flex; justify-content: center;">
 <img src="https://github.com/Amanyft/End-to-end-Web-app-with-AWS/assets/80603078/753a0456-4f6a-40d3-ad74-73cab1b8d799" alt="Example Image" width="100" height="100">
 </div>
-AWS Amplify is a set of tools and services offered by Amazon Web Services (AWS) to help developers build scalable and full-stack web and mobile applications.
+AWS Amplify is a set of tools and services offered by AWS to help developers build scalable and full-stack web and mobile applications.
 We used AWS Amplify in our project to host the web app.<br>
 You can choose to drag and drop the zip file of your app or to get it from An S3 bucket or any url. <br><br>
 
